@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Spyhacker93
+- 👋 Hi, I’m @amanpawar
 - 👀 I’m interested in coding/hacking
 - 🌱 I’m currently learning ethical hacking course
 - 💞️ I’m looking to collaborate on cyber security
